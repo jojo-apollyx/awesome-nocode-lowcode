@@ -340,6 +340,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Websites
 
 - [appsmith_](https://www.appsmith.com/) - Frontend as a Service to build internal apps
+- [Apollyx](https://www.apollyx.com) - AI-powered page builder for service businesses. Create waivers, booking pages, intake forms, and bio links in seconds.
 - [Bloggi](https://bloggi.co) - A simple blogging platform
 - [Bookmark](https://www.bookmark.com) - Create a Website with AI
 - [France Nuage Webstudio](https://france-nuage.fr) - Managed Webstudio (open-source visual website builder, alternative to Webflow) hosted in France. Sovereign hosting, GDPR compliant.
